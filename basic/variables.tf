@@ -15,12 +15,12 @@ variable "password" {
 }
 
 variable "name_function" {
-  type = string 
+  type        = string
   description = "Name function"
 }
 
 variable "admin_user" {
-  type = string
+  type        = string
   description = "Admin User"
-  
+
 }
