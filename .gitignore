@@ -7,3 +7,5 @@ terraform.tfvars
 *.tfsate.backup
 
 main.tfplan
+
+linuxkey.pem

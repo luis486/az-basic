@@ -14,13 +14,13 @@ variable "password" {
   description = "Contraseña del administrador para la VM"
 }
 
-variable "name_vm" {
-  type        = string
+variable "name_function" {
+  type = string 
   description = "Name function"
 }
 
 variable "admin_user" {
-  type        = string
+  type = string
   description = "Admin User"
-
+  
 }

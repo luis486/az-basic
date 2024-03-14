@@ -65,7 +65,7 @@ resource "azurerm_linux_virtual_machine" "linux_vm" {
   ]
   admin_ssh_key {
     username   = "luis486"
-    public_key = file("C:/Users/luism/.ssh/id_rsa1.pub")
+    public_key = tls_private_key.linux_key.public_key_openssh
   }
   os_disk {
     caching              = "ReadWrite"
