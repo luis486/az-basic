@@ -4,7 +4,7 @@ terraform.tfvars
 .terraform
 
 *.tfstate
-*.tfsate.backup
+*.tfstate.backup
 
 main.tfplan
 
