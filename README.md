@@ -61,7 +61,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
 ![alt text](images/terraformApply.png)
 
-**Terraform Apply**
+**Terraform Destroy**
 
 ![alt text](images/terraformDestroy.png)
 
