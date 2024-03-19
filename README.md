@@ -47,6 +47,33 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
     terraform destroy
 
+## EVIDENCIAS
+
+**Terraform Init**
+
+![alt text](images/terraformInit.png)
+
+**Terraform Plan**
+
+![alt text](images/terraformPlan.png)
+
+**Terraform Apply**
+
+![alt text](images/terraformApply.png)
+
+**Terraform Apply**
+
+![alt text](images/terraformDestroy.png)
+
+**Visualización en Azure**
+
+![alt text](images/vm.png)
+
+**SSH**
+
+![alt text](images/ssh.png)
+
+
 ## Additional Resources
 
 - [Terraform Documentation](https://www.terraform.io/docs/index.html)
